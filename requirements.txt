@@ -1,0 +1,3 @@
+# 本專案僅使用 Python 標準函式庫（socket, threading, multiprocessing, random, re, time），
+# 無需安裝第三方套件。
+# 測試環境：Python 3.10.6
